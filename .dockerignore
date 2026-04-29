@@ -1,0 +1,9 @@
+build/
+figures/
+*.pyc
+__pycache__/
+.git/
+.vscode/
+*.o
+*.a
+artifact_output/
